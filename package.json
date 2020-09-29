@@ -11,6 +11,7 @@
     "clsx": "^1.1.1",
     "clx": "^1.0.0",
     "firebase": "^7.20.0",
+    "firebase-tools": "^8.10.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icon": "^1.0.0",
